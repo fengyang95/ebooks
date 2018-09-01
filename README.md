@@ -1,6 +1,6 @@
 # ebooks
 ## 计算机视觉
-    1、[Deep Learning for Computer Vision with Python](/计算机视觉/Deep_Learning_for_Computer_Vision_with_Python.pdf)
+   1、[Deep Learning for Computer Vision with Python](/计算机视觉/Deep_Learning_for_Computer_Vision_with_Python.pdf)
     2、[Learning OpenCV3](/计算机视觉/Learning_OpenCV3.pdf)
     3、[Programming Computer Vision with Python](/计算机视觉/Programming_Computer_Vision_with_Python.pdf)
     4、[计算机算法与应用 中文版](/计算机视觉/计算机视觉算法与应用.pdf)
