@@ -15,7 +15,7 @@
   8、[**浙江大学概率论与数理统计**](/机器学习/浙江大学概率论与数理统计.pdf)  
 ## 编程
 ### Python
-  1、[**500 Lines or Less**](/编程/Python/500L)  
+  1、[**500 Lines or Less**](/编程/Python/500L.pdf)  
   2、[**Core Python Applications Programming 3rd Edition**](/编程/Python/Core_Python_Applications_Programming_3rd_Edition.pdf)  
   3、[**Effective Python 编写高质量Python代码的59个有效方法**](/编程/Python/Effective_Python_编写高质量Python代码的59个有效方法.pdf)  
   4、[**Fluent Python**](/编程/Python/Fluent_Python.pdf)  
