@@ -12,7 +12,8 @@
   5、[**Python for Data Analysis**](/机器学习/Python_for_Data_Analysis.pdf)  
   6、[**机器学习 周志华西瓜书**](/机器学习/机器学习_周志华.pdf)  
   7、[**深度学习 中文版**](/机器学习/深度学习Deep_Learning.pdf)  
-  8、[**浙江大学概率论与数理统计**](/机器学习/浙江大学概率论与数理统计.pdf)  
+  8、[**浙江大学概率论与数理统计**](/机器学习/浙江大学概率论与数理统计.pdf) 
+  9、[**Machine Learning Yearing-1-52**)](/机器学习/Machine Learning Yearing-1-52.pdf) 
 ## 编程
 ### Python
   1、[**500 Lines or Less**](/编程/Python/500L.pdf)  
