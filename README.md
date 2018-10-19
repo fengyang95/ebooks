@@ -14,7 +14,8 @@
   7、[**深度学习 中文版**](/机器学习/深度学习Deep_Learning.pdf)  
   8、[**浙江大学概率论与数理统计**](/机器学习/浙江大学概率论与数理统计.pdf)  
   9、[**Machine Learning Yearing-1-52**](/机器学习/Machine_Learning_Yearing_1_52.pdf) 
-  10、[**Introduction to Boosted Trees Slides by Tianqi Chen**](/机器学习/BoostedTree.pdf)                      
+  10、[**Introduction to Boosted Trees Slides by Tianqi Chen**](/机器学习/BoostedTree.pdf)   
+  11、[**从零推导支持向量机**](/机器学习/从零推导支持向量机.pdf)                 
 ## 编程
 ### Python
   1、[**500 Lines or Less**](/编程/Python/500L.pdf)  
