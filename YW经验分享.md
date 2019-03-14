@@ -12,7 +12,7 @@
 2. [计算机视觉论文速递](https://zhuanlan.zhihu.com/c_172507674)  
 3. [无痛的机器学习](https://zhuanlan.zhihu.com/hsmyyPaperWeekly)  
 4. [Insight](https://zhuanlan.zhihu.com/ai-insight)  
-5. [AI之路]（https://blog.csdn.net/u014380165)     
+5. [AI之路](https://blog.csdn.net/u014380165)    
 6. [hjimce的专栏](https://blog.csdn.net/hjimce)  
 
 # 找工作相关
