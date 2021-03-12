@@ -1,6 +1,7 @@
 # ebooks
 ## 时间序列
-  1、[**Time Series for Macroeconomics and Finance**](/时间序列/Time_Series_for_Macroeconomics_and_Finance.pdf)
+  1、[**Time Series for Macroeconomics and Finance**](/时间序列/Time_Series_for_Macroeconomics_and_Finance.pdf)  
+  2、[**Time Series Analysis and Its Applications**](/时间序列/Time_Series_Analysis_and_Its_Applications.pdf)
 ## 计算机视觉
   1、[**Deep Learning for Computer Vision with Python**](/计算机视觉/Deep_Learning_for_Computer_Vision_with_Python.pdf)  
   2、[**Learning OpenCV3**](/计算机视觉/Learning_OpenCV3.pdf)  
